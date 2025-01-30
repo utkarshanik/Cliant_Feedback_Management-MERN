@@ -4,3 +4,6 @@
 [submodule "Admin_Dashboard_Client_Feedback"]
 	path = Admin_Dashboard_Client_Feedback
 	url = https://github.com/utkarshanik/Admin_Dashboard_Client_Feedback
+[submodule "Client_Feedback_Sytem"]
+	path = Client_Feedback_Sytem
+	url = https://github.com/utkarshanik/Client_Feedback_Sytem
