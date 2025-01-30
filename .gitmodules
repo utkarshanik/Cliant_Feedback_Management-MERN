@@ -1,0 +1,6 @@
+[submodule "Db_Client_Feedback"]
+	path = Db_Client_Feedback
+	url = https://github.com/utkarshanik/Db_Client_Feedback
+[submodule "Admin_Dashboard_Client_Feedback"]
+	path = Admin_Dashboard_Client_Feedback
+	url = https://github.com/utkarshanik/Admin_Dashboard_Client_Feedback
